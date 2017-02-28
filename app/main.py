@@ -35,7 +35,7 @@ def start():
 def move():
     data = bottle.request.json
 
-    x = 0
+    x = true
 
     print data["height"]
 
